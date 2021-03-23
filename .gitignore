@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/Bibix/DesignTimeBuild/.dtbcache.v2
+/.vs/Bibix/v16/.suo
+/Backend/obj/Backend.csproj.nuget.dgspec.json
+/Backend/obj/Backend.csproj.nuget.g.props
+/Backend/obj
+/Common/obj
